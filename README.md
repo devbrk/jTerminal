@@ -1,6 +1,6 @@
 # Nasıl Kullanılır?
 
-Öncelikle <br /> jquery kütüphanesini,  jTerminal.v1.1.js, jTerminal.v1.1.css dosyalarını sayfanıza include edin.
+Öncelikle jquery kütüphanesini,  jTerminal.v1.1.js, jTerminal.v1.1.css dosyalarını sayfanıza include edin.
 
 Ve listelenmesini istediğiniz yazıları ul ile girin.
 
@@ -24,10 +24,10 @@ yazarak eklentiye listeletmek istediğiniz ul'yi gönderin.
  
 # Parametreler:
 
-textSize: yazı boyutu.
-textFont: yazı fontu.
-textSpeed: yazının açılma hızı
-textAlign: ekranın neresine yaslasın? 3 seçenek var left center right
+textSize: yazı boyutu.<br />
+textFont: yazı fontu.<br />
+textSpeed: yazının açılma hızı<br />
+textAlign: ekranın neresine yaslasın? 3 seçenek var left center right<br />
 textColor: yazı rengi.
 textStyle: yazı stili.
 textBold: yazı bold olsun mu? true false
