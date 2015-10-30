@@ -56,7 +56,7 @@ contextmenu: sağ tık engellensin mi ? true false
 			textStyle       :  "normal"  ,  
 			textBold        :  false     ,  
 			linkUnderline   :  true      ,
-			linkColor       : "#fff"     ,
+			linkColor       :  "#fff"    ,
 			textToUpper     :  false     ,  
 			textToLower     :  false     , 
 			cursorClose     :  false     ,  
