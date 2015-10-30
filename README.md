@@ -24,7 +24,7 @@ yazarak eklentiye listeletmek istediğiniz ul'yi gönderin.
  
 # Parametreler:
 
-textSize: yazı boyutu. <Enter>
+textSize: yazı boyutu.
 textFont: yazı fontu.
 textSpeed: yazının açılma hızı
 textAlign: ekranın neresine yaslasın? 3 seçenek var left center right
