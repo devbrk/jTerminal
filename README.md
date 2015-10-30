@@ -28,21 +28,21 @@ textSize: yazı boyutu.<br />
 textFont: yazı fontu.<br />
 textSpeed: yazının açılma hızı<br />
 textAlign: ekranın neresine yaslasın? 3 seçenek var left center right<br />
-textColor: yazı rengi.
-textStyle: yazı stili.
-textBold: yazı bold olsun mu? true false
-textToUpper: büyük harf yapar.
-textToLower: küçük harf yapar.
-linkUnderline: linklerin altı çizilimi olsun ? true false
-linkColor: link rengi. default #fff
-cursorHide: İmleçi gizler.
-cursorClose: Tüm yazılar açılınca imleç gizlensin mi ? true false
-cursorToggle: tüm yazılar açıldıktan sonra imleç yanıp sönsün mü? imputlardaki gibi. true false
-cursorColor: imleç rengi
-cursorWidth: imleç kalınlıgı
-backgroundColor: arkaplan rengi
-cursorSpeed: imleç yanıp sönme hızı
-contextmenu: sağ tık engellensin mi ? true false
+textColor: yazı rengi.<br />
+textStyle: yazı stili.<br />
+textBold: yazı bold olsun mu? true false<br />
+textToUpper: büyük harf yapar.<br />
+textToLower: küçük harf yapar.<br />
+linkUnderline: linklerin altı çizilimi olsun ? true false<br />
+linkColor: link rengi. default #fff<br />
+cursorHide: İmleçi gizler.<br />
+cursorClose: Tüm yazılar açılınca imleç gizlensin mi ? true false<br />
+cursorToggle: tüm yazılar açıldıktan sonra imleç yanıp sönsün mü? imputlardaki gibi. true false<br />
+cursorColor: imleç rengi<br />
+cursorWidth: imleç kalınlıgı<br />
+backgroundColor: arkaplan rengi<br />
+cursorSpeed: imleç yanıp sönme hızı<br />
+contextmenu: sağ tık engellensin mi ? true false<br />
 
 
 # Örnek parametre kullanımı
