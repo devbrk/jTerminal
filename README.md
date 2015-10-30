@@ -68,6 +68,6 @@ contextmenu: sağ tık engellensin mi ? true false<br />
 			cursorSpeed    	:  500       ,  
 			cursorWidth  	:  "40px"    ,  
 			contextmenu     :  true
-		});
+	});
 ```
 
