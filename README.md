@@ -64,7 +64,7 @@ contextmenu: sağ tık engellensin mi ? true false
 			cursorColor     :  "#fff"    ,  
 			backgroundColor	:  "#000"    ,  
 			cursorSpeed    	:  500       ,  
-			cursorWidth  	  :  "40px"    ,  
+			cursorWidth  	:  "40px"    ,  
 			contextmenu     :  true
 		});
 ```
