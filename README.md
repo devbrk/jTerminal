@@ -5,12 +5,12 @@
 Ve listelenmesini istediğiniz yazıları ul ile girin.
 
 Örnek;
-
+/*
 <ul id="test">
  <li>Satır 1</ul>
  <li>Satır 2</ul>
 </ul>
-
+*/
 Gibi.
 
 Bunları yaptıktan sonra  script tagları arasında
