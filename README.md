@@ -1,4 +1,4 @@
-#[DEMO](https://goo.gl/3HWn5A)
+#[DEMO](http://goo.gl/dCKqvK)
 
 # Nasıl Kullanılır?
 
