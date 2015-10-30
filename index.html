@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="jTerminal.v1.1.css" />
+	<script src="jquery.js"></script>
+	<script src="jTerminal.v1.1.js"></script>
+	<script>
+	$(function(){
+		$("ul:first").jTerminal({
+			textSize        :  "14px",
+			textFont        :  "Menlo, Consolas, Monaco, monospace" ,
+			textSpeed       :  1         ,  // MS // Default 1MS
+			textAlign       :  "left"    ,  // left | center | right
+			textColor       :  "lime"    ,  // Default lime
+			textStyle       :  "normal"  ,  // Default normal
+			textBold        :  true      ,  // Default false
+			textToUpper     :  false     ,  // Default false
+			textToLower     :  false     ,  // Default false
+			linkUnderline   :  true      ,  // Default true
+			linkColor       : "#fff"     ,  // Default lime
+			cursorHide		:  false     ,  // Default false
+			cursorClose     :  false     ,  // Default false
+			cursorToggle    :  true      ,  // Default false
+			cursorSpeed    	:  500       ,  // MS - Default 500MS
+			cursorWidth  	:  "4px"     ,  // MS - Default 4px
+			cursorColor     :  "#fff"    ,  // Default #fff
+			backgroundColor	:  "#000"    ,  // Default #000
+			contextmenu     :  false
+		});
+	});
+	</script>
+</head>
+<body>
+	<div id="cmd">
+		<div id="kapsayici"></div>
+		<ul>
+			<li>{</li>
+				<li>	<a href="http://google.com">- 1:{</a></li>
+				<li>		 id: 1,</li>
+				<li>		 username: "admin",</li>
+				<li>		 mail: "admin@webmaster.com",</li>
+				<li>		 city: "izmir"</li>
+				<li>    },</li>
+				<li>	- 2:{</li>
+				<li>		 id: 2,</li>
+				<li>		 username: "user",</li>
+				<li>		 mail: "user@gmail.com",</li>
+				<li>		 city: "istanbul"</li>
+				<li>    },</li>
+				<li>	- 3:{</li>
+				<li>		 id: 3,</li>
+				<li>		 username: "test",</li>
+				<li>		 mail: "test@outlook.com",</li>
+				<li>		 city: "Antalya"</li>
+				<li>    }</li>
+			<li>}</li>
+			<li>################ jTerminal ################</li>
+			<li>#                #########                #</li>
+			<li>################ jTerminal ################</li>
+		</ul>
+	</div>
+</body>
+</html>
