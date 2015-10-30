@@ -2,7 +2,7 @@
 
 # Nasıl Kullanılır?
 
-Öncelikle jquery kütüphanesini,  jTerminal.v1.1.js, jTerminal.v1.1.css dosyalarını sayfanıza include edin.
+Öncelikle jquery kütüphanesini,  jTerminal.v1.1.js, jTerminal.v1.1.css dosyalarını sayfanıza dahil edin.
 
 Ve listelenmesini istediğiniz yazıları ul ile girin.
 
