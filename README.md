@@ -5,8 +5,11 @@
 Ve listelenmesini istediğiniz yazıları ul ile girin.
 
 Örnek;
-
-[code]<ul id="test">[/code]
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+<ul id="test">
  <li>Satır 1</ul>
  <li>Satır 2</ul>
 </ul>
