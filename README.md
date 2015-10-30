@@ -1,4 +1,4 @@
-#[DEMO](http://burakyldrm.com/)
+#[DEMO](http://goo.gl/gqgiEf/)
 
 # Nasıl Kullanılır?
 
