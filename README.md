@@ -1,4 +1,4 @@
-#[DEMO](http://goo.gl/dCKqvK)
+#[DEMO](http://dizikertenkele.com)
 
 # Nasıl Kullanılır?
 
