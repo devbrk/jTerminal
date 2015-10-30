@@ -14,8 +14,10 @@ Ve listelenmesini istediğiniz yazıları ul ile girin.
 Gibi.
 
 Bunları yaptıktan sonra  script tagları arasında
+```javascript
  $("ul#test").jTerminal();
- ile eklentiye listeletmek istediğiniz ul'yi gönderin.
+```
+yazarak eklentiye listeletmek istediğiniz ul'yi gönderin.
  
  
  Eklentiyi parametre girerek özelleştirebilirsiniz. 19 parametre seçeneği vardır.
@@ -44,7 +46,7 @@ contextmenu: sağ tık engellensin mi ? true false
 
 
 # Örnek parametre kullanımı
-
+```javascript
 	$("ul").jTerminal({
 			textSize        :  "16px"    ,
 			textFont        :  "Menlo, Consolas, Monaco, monospace" ,
@@ -65,3 +67,5 @@ contextmenu: sağ tık engellensin mi ? true false
 			cursorWidth  	  :  "40px"    ,  
 			contextmenu     :  true
 		});
+```
+
